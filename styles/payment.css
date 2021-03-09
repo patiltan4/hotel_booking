@@ -3,6 +3,21 @@
   width: 22px;
 }
 .imgPayment{
-  width: 500px;
+  width: auto;
   height: 500px;
+}
+.paymentHotel{
+  align-content: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: rgb(132,136,139);
+}
+#customerDetail{
+  margin: 2%;
+}
+#costDetail{
+  border: 2px;
+  border-width: 1%;
+  margin: 2%;
+  border-color: black;
 }

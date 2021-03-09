@@ -1,0 +1,21 @@
+.header{
+  width: 100%;
+  background-color: #bc8f8f;
+}
+.footer{
+  width: 100%;
+  background-color: #bc8f8f;
+}
+
+body{
+  margin: 0px;
+  background-color: #e0e0e0;
+}
+.icons{
+  height: 20px;
+  width: 22px;
+}
+
+.logo{
+  width: 60px;
+}
