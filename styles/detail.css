@@ -5,3 +5,7 @@
 #adult, #customerName, #checkInDate, #checkOutDate, #totalCost{
   margin: 2px;
 }
+.imgDetail{
+  width: 500px;
+  height: 500px;
+}
