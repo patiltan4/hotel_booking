@@ -11,14 +11,39 @@
 
 <body>
   <div class="header">
-    <img src="assests\images\logo.png" style="height: 100px;"><br>
-    Header Div</div>
-
+    <a href="index.html">
+      <img src="assests\images\logo.png" alt="logo" style="height: 100px;">
+    </a>
+    <a href="login.html">Login</a>
 
   <div class="content">Content Div
             <div>
                   <img src="https://media-cdn.tripadvisor.com/media/photo-w/17/b3/09/b4/by-the-poolside.jpg" alt="">
+                  <form>
+                        <label for="adult">Adult : </label>
+                        <input id="adult" type="number"><br>
+
+                        <label for="customerName">Name : </label>
+                        <input id="customerName" type="text"><br>
+                        
+                        <label for="checkInDate">From Date : </label>
+                        <input id="checkInDate" type="date"><br>
+                        
+                        <label for="checkOutDate">To Date : </label>
+                        <input id="checkOutDate" type="date"><br>
+                        
+                        <label>Total : </label>
+                        <input id="totalCost"><br>
+
+                        <input type="submit" value="Book now" class="customButton">
+                        <br>
+
+                        
+
+                  </form>
+                  
                   <p style="font-weight: bold;">Raddison Blue Hotel</p>
+
                   <p>5 Star</p>
                   <p>New Delhi</p>
                   <p>Amenities</p>

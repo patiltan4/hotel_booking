@@ -2,3 +2,6 @@
   height: 20px;
   width: 22px;
 }
+#adult, #customerName, #checkInDate, #checkOutDate, #totalCost{
+  margin: 2px;
+}
